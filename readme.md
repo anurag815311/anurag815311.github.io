@@ -13,7 +13,7 @@ Hello! I'm **ANURAG KUMAR SINGH**, a dedicated college student and an enthusiast
 ## 🛠️ Projects  
 
 ### 1️⃣ [Message Spam Detection](https://github.com/anurag815311/Message-detection)  
-**[Deployment Link](https://anurag815311.github.io/Message-detection/)** – Hosted using GitHub Pages  
+**[Deployment Link](https://anurag815311.github.io/Message-detection/)** (click)– Hosted using GitHub Pages  
 A machine learning project to classify messages as spam or not spam.  
 **Features**:  
 - Preprocesses text with tokenization, stopword removal, and lemmatization.  
@@ -22,7 +22,7 @@ A machine learning project to classify messages as spam or not spam.
 ---
 
 ### 2️⃣ [QR Code Generator](https://github.com/anurag815311/qrcode)  
-**[Deployment Link](https://anurag815311.github.io/qrcode/)** – Hosted using GitHub Pages  
+**[Deployment Link](https://anurag815311.github.io/qrcode/)**(click) – Hosted using GitHub Pages  
 A Python-based project for generating QR codes with the help of libraries like `qrcode` and `Pillow`.  
 **Features**:  
 - Generate QR codes for any input data.  
@@ -31,7 +31,7 @@ A Python-based project for generating QR codes with the help of libraries like `
 ---
 
 ### 3️⃣ [Snake Game](https://github.com/anurag815311/snake-game)  
-**[Deployment Link](https://anurag815311.github.io/snake-game/)** – Hosted using GitHub Pages  
+**[Deployment Link](https://anurag815311.github.io/snake-game/)** (click)– Hosted using GitHub Pages  
 A classic Snake Game built with Python's `Pygame` library.  
 **Features**:  
 - Control the snake to eat food and grow longer.  
@@ -40,7 +40,7 @@ A classic Snake Game built with Python's `Pygame` library.
 ---
 
 ### 4️⃣ [Random Password Generator (RPG)](https://github.com/anurag815311/RPG--project)  
-**[Deployment Link](https://anurag815311.github.io/RPG--project/)** – Hosted using GitHub Pages  
+**[Deployment Link](https://anurag815311.github.io/RPG--project/)** (click)– Hosted using GitHub Pages  
 A Python-based application for generating secure, random passwords.  
 **Features**:  
 - Combines letters, numbers, and special characters.  
@@ -49,7 +49,7 @@ A Python-based application for generating secure, random passwords.
 ---
 
 ### 5️⃣ [GUI Calculator](https://github.com/anurag815311/Calculator)  
-**[Deployment Link](https://anurag815311.github.io/Calculator/)** – Hosted using GitHub Pages  
+**[Deployment Link](https://anurag815311.github.io/Calculator/)**(click) – Hosted using GitHub Pages  
 A simple yet efficient GUI-based calculator built using Python's `tkinter` library.  
 **Features**:  
 - Performs basic arithmetic operations.  
