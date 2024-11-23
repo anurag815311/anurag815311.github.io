@@ -1,12 +1,7 @@
 # ANURAG KUMAR SINGH  
 **SAPID-590018370**  
 
----
 
-## 🗂️ Navigation  
-- [About Me](#about-me)  
-- [Projects](#projects)  
-- [Contact Me](#contact-me)  
 
 ---
 
