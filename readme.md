@@ -12,13 +12,12 @@ Hello! I'm **ANURAG KUMAR SINGH**, a dedicated college student and an enthusiast
 
 ## 🛠️ Projects  
 
-### 1️⃣ [GUI Calculator](https://github.com/anurag815311/Calculator)  
-**[Deployment Link](https://anurag815311.github.io/Calculator/)** – Hosted using GitHub Pages  
-A simple yet efficient GUI-based calculator built using Python's `tkinter` library.  
+### 1️⃣ [Random Password Generator (RPG)](https://github.com/anurag815311/RPG--project)  
+**[Deployment Link](https://anurag815311.github.io/RPG--project/)** – Hosted using GitHub Pages  
+A Python-based application for generating secure, random passwords.  
 **Features**:  
-- Performs basic arithmetic operations.  
-- Intuitive and user-friendly interface.  
-
+- Combines letters, numbers, and special characters.  
+- User-friendly graphical interface built with `Tkinter`.
 ---
 
 ### 2️⃣ [QR Code Generator](https://github.com/anurag815311/qrcode)  
@@ -48,13 +47,12 @@ A Python-based application for generating secure, random passwords.
 
 ---
 
-### 5️⃣ [Message Spam Detection](https://github.com/anurag815311/Message-detection)  
-**[Deployment Link](https://anurag815311.github.io/Message-detection/)** – Hosted using GitHub Pages  
-A machine learning project to classify messages as spam or not spam.  
+### 5️⃣ [GUI Calculator](https://github.com/anurag815311/Calculator)  
+**[Deployment Link](https://anurag815311.github.io/Calculator/)** – Hosted using GitHub Pages  
+A simple yet efficient GUI-based calculator built using Python's `tkinter` library.  
 **Features**:  
-- Preprocesses text with tokenization, stopword removal, and lemmatization.  
-- Utilizes `Bag of Words` and `TF-IDF` techniques for feature extraction.  
-- Trains a Random Forest Classifier on labeled data.  
+- Performs basic arithmetic operations.  
+- Intuitive and user-friendly interface. 
 
 ---
 
